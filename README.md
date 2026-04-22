@@ -4,7 +4,7 @@ Smart wearables AirWear for the My AirWear open toolset. Used for community logg
 
 ## License
 
-This repository contains multiple types of content with different licenses:
+This organization contains multiple types of content with different licenses:
 
 - **Source code** (e.g. /src, /firmware, /scripts): licensed under AGPL-3.0.
   See `LICENSE`.
